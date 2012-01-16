@@ -1,3 +1,9 @@
+/**
+ * Changing file for release 1.
+ * 
+ * This is IMPORTANT!
+ */
+
 package org.reflections;
 
 import com.google.common.base.Function;
